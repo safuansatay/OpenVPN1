@@ -50,7 +50,7 @@ Features :
 SHA-256 RSA certificate
 Compatibility
 
-The script is made to work on these OS :
+The script is made to work on these OS  :
 
 Debian 7
 Debian 8
