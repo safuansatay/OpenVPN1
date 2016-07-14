@@ -69,6 +69,7 @@ Run the script and follow the assistant:
 wget https://raw.githubusercontent.com/safuansatay/OpenVPN1/master/install.sh
 chmod +x openvpn-install.sh
 ./openvpn-install.sh
+
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
 You can get a cheap VPS for 2€/month at PulseHeberg.
