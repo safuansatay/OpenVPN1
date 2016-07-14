@@ -67,8 +67,8 @@ Installation
 Run the script and follow the assistant:
 
 wget https://raw.githubusercontent.com/safuansatay/OpenVPN1/master/install.sh
-chmod +x openvpn-install.sh
-./openvpn-install.sh
+chmod +x install.sh
+./install.sh
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
